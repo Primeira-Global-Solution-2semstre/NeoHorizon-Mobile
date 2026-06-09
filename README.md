@@ -2,6 +2,10 @@
 
 Aplicativo mobile desenvolvido com Expo, React Native e TypeScript para monitoramento e gerenciamento de detritos orbitais. O app apresenta uma visao geral dos objetos rastreados, alertas de risco de colisao, listagem com busca e filtros, alem de telas para cadastro, edicao, detalhes e remocao de registros.
 
+# Integrantes:
+RAFAEL KUBAGAWA RAMOS, RM565572, 2TDSPO
+VINICIUS SOTERAS BRAGA, RM566230, 2TDSPO
+
 ## Funcionalidades
 
 - Dashboard com metricas de detritos monitorados e alertas ativos.
@@ -180,3 +184,7 @@ npm test
 ## Licenca
 
 Projeto privado.
+
+# Video no Youtube
+
+https://youtu.be/in9wW7Zwu60
