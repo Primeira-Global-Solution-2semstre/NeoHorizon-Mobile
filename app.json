@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "NeoHorizon Mobile",
+    "slug": "neohorizon-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#0B1026",
+      "resizeMode": "contain"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon-web.png",
+        "backgroundColor": "#0B1026"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon-web.png"
+    }
+  }
+}
