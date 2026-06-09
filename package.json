@@ -7,7 +7,8 @@
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
-    "web": "expo start --web"
+    "web": "expo start --web",
+    "typecheck": "tsc --noEmit"
   },
   "dependencies": {
     "@expo/vector-icons": "^13.0.0",
@@ -30,6 +31,8 @@
     "@expo/webpack-config": "^19.0.0",
     "eslint": "^8.57.0",
     "eslint-config-universe": "^7.0.0",
+    "@types/react": "^18.2.79",
+    "typescript": "^5.5.4",
     "react-native-web": "~0.19.6"
   }
 }
