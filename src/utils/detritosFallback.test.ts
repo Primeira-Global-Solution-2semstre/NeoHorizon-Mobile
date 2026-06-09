@@ -1,7 +1,6 @@
-const test = require('node:test');
-const assert = require('node:assert/strict');
-
-const { updateLocalDetrito, removeLocalDetrito } = require('./detritosFallback');
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import { updateLocalDetrito, removeLocalDetrito } from './detritosFallback';
 
 test('updateLocalDetrito updates the matching detrito in place', () => {
   const list = [
